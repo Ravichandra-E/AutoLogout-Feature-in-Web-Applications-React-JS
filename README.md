@@ -15,7 +15,7 @@ In MainDashboardEntry (this should be the base entry file for all authenticated 
 Example: const MainDashboardEntry = () => {
     return (
         <AppLogout>
-            <Home /> ** //Here change your component**
+            <Home />
         </AppLogout>
     )
 }
