@@ -12,12 +12,12 @@ NOTE: This can be done in the entry file of our main layout. But it's okay to cr
 
 In MainDashboardEntry (this should be the base entry file for all authenticated routes),
 
-Example: const MainDashboardEntry = () => {
+**Example: const MainDashboardEntry = () => {
     return (
         <AppLogout>
             <Home />
         </AppLogout>
     )
-}
+}**
 export default MainDashboardEntry
 
