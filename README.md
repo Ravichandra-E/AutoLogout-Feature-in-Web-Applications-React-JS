@@ -12,6 +12,6 @@ NOTE: This can be done in the entry file of our main layout. But it's okay to cr
 
 In MainDashboardEntry (this should be the base entry file for all authenticated routes),
 
-**Example:<AppLogout> <Home /> </AppLogout> **
+**Example: <AppLogout> <Home /> </AppLogout> **
 
 
